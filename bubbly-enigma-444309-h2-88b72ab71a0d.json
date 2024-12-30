@@ -1,8 +1,6 @@
 {
   "type": "service_account",
   "project_id": "bubbly-enigma-h2",
-  "private_key_id": "XXXXXXXXXXXXXXXXXXXXX",
-  "private_key": "-----BEGIN PRIVATE KEY-----XXX",
   "client_email": "shop-orders@bbly-enigma-ccount.com",
   "client_id": "116242119188565787849",
   "auth_uri": "https://accounts.google.com/oh",
